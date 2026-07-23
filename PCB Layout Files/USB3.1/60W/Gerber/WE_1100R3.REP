@@ -1,0 +1,287 @@
+*************************************************************
+FileName = WE_1100R3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dimension 2
+      File : WE_1100R3.GM3
+
+    Adding Layer      : Dimension 2
+
+
+Used DCodes :
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : WE_1100R3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+    D20
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Ref Ground BS
+      File : WE_1100R3.GP2
+
+    Adding Layer      : Ref Ground BS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D39
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Side
+      File : WE_1100R3.GBL
+
+    Adding Layer      : Bottom Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D18
+    D20
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WE_1100R3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Side
+      File : WE_1100R3.GTL
+
+    Adding Layer      : Top Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Ref Ground TS
+      File : WE_1100R3.GP1
+
+    Adding Layer      : Ref Ground TS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D39
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : WE_1100R3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D31
+    D33
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WE_1100R3.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : WE_1100R3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : WE_1100R3.GM4
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : WE_1100R3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : WE_1100R3.GD1
+
+    Adding Drill Pair : Top Side-Bottom Side
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : WE_1100R3.GG1
+
+    Adding Drill Pair : Top Side-Bottom Side
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D66
+*************************************************************
+

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WE_1100R2.PcbDoc   21.08.2018  15:45:32
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Side to Bottom Side
+ASCII Plated RoundHoles File : WE_1100R2-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : WE_1100R2-SlotHoles-Plated.TXT
+EIA File   : WE_1100R2.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             107       PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             16        PTH        0.00mm (0.00inch)
+T3      0.4mm (16mil)                                             Round             12        PTH        0.00mm (0.00inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              139
+
+Total Processing Time (hh:mm:ss) : 00:00:00

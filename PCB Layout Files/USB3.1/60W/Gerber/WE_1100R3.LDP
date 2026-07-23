@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\Projekte\we1100_USB_3.1_Type_C\HW\current\schematic\WE_1100R3.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=we_1100r3-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=we_1100r3-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=we_1100r3-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=we_1100r3-slotholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

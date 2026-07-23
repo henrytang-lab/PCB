@@ -1,0 +1,2 @@
+Altium Designer 18.1.9
+Design Version R2 (SVN 19)
